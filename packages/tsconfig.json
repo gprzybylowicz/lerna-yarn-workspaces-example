@@ -3,5 +3,10 @@
     "references": [
         { "path": "x-cli" },
         { "path": "x-core" }
-    ]
+
+    ],
+    "baseUrl": "./packages",
+    "paths": {
+        "@quramy/*": ["./*/src"]
+    }
 }
