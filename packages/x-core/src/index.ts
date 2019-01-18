@@ -1,3 +1,3 @@
 export function awesomeFn() {
-  console.log("Hello in version 2.*");
+  console.log("Hello in version 3.*");
 }
