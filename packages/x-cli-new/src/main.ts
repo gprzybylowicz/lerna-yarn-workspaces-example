@@ -5,3 +5,5 @@ export function cli() {
   awesomeFn();
   return Promise.resolve(true);
 }
+
+cli();
